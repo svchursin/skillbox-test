@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/svchursin/skillbox-test/issues"
   },
-  "homepage": "https://github.com/svchursin/skillbox-test#readme"
+  "homepage": "https://github.com/svchursin/skillbox-test#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "pg": "^8.8.0"
+  }
 }
